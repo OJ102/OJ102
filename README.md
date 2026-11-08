@@ -21,12 +21,6 @@ I work on transformers, agents, and local-first AI, with a focus on applied ML, 
 
 </div>
 
-<div align="center">
-
-**Open To:** `AI/ML Engineer, New Grad` · `ML Engineer` · `Forward Deployed Engineer` · `Research Engineer` · `AI Engineer`
-
-</div>
-
 ---
 
 ## <div align="center">🛠️ Tech Stack</div>
