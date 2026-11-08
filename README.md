@@ -175,9 +175,6 @@ Led a team of 4+ engineers and researchers to design and deploy TruVox, an AI-po
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OJ102&theme=github_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OJ102&theme=github_dark)
 
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OJ102&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OJ102&theme=github_dark)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OJ102&theme=dark&hide_border=true&background=141210&stroke=E8541A&ring=E8541A&fire=E8E0D0&currStreakNum=E8E0D0&sideNums=E8E0D0&currStreakLabel=E8541A&sideLabels=E8541A&dates=888888)
 
 </div>
